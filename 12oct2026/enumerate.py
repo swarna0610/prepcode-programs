@@ -1,1 +1,2 @@
-list(enumerate([])))
+list(enumerate(["a","b"]))
+print(list)
